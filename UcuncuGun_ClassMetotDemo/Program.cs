@@ -22,8 +22,6 @@ namespace UcuncuGun_ClassMetotDemo
             musteriManager.Ekle(musteri1);
             musteriManager.Guncelle(musteri2);
             musteriManager.Silme(musteri2);
-
-
         }
     }
 }
