@@ -11,7 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UcuncuGun_ClassMetotDemo", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DorduncuGun", "DorduncuGun\DorduncuGun.csproj", "{8CD33B98-A2F9-4553-8217-75319308450B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BesinciGun_InterfaceAbstractDemo", "BesinciGun_InterfaceAbstractDemo\BesinciGun_InterfaceAbstractDemo.csproj", "{32061CA1-712E-4164-8A10-75A67CA75FC7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BesinciGun_InterfaceAbstractDemo", "BesinciGun_InterfaceAbstractDemo\BesinciGun_InterfaceAbstractDemo.csproj", "{32061CA1-712E-4164-8A10-75A67CA75FC7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BesinciGun_GameProject", "BesinciGun_GameProject\BesinciGun_GameProject.csproj", "{62C4D699-D95E-4972-BBD6-5E4631B5C940}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{32061CA1-712E-4164-8A10-75A67CA75FC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{32061CA1-712E-4164-8A10-75A67CA75FC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{32061CA1-712E-4164-8A10-75A67CA75FC7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62C4D699-D95E-4972-BBD6-5E4631B5C940}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62C4D699-D95E-4972-BBD6-5E4631B5C940}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62C4D699-D95E-4972-BBD6-5E4631B5C940}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62C4D699-D95E-4972-BBD6-5E4631B5C940}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
